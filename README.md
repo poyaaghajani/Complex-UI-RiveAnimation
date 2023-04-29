@@ -11,7 +11,7 @@ Technologies used in the project:
 *   Rive
 *   Flutter_svg
 
-<h3>💻 Videos</h2>
+<h3>🦖 Videos</h3>
 
 
 
