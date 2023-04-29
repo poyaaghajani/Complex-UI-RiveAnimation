@@ -10,3 +10,8 @@ Technologies used in the project:
 
 *   Rive
 *   Flutter_svg
+
+
+
+https://user-images.githubusercontent.com/107408431/235301409-b674af37-6436-4285-971b-4e630ddaedfd.mp4
+
